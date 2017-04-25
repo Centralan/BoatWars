@@ -26,3 +26,16 @@ function aiflint_enter(data)
 end
 
 registerHook("REGION_ENTER", "bw-enter", "aiflint_enter");
+
+--PvP
+--
+
+--PvP Respawn
+--
+
+--PvE
+--
+
+
+--Loot Table
+--
